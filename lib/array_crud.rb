@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array  
-  [poodle, giraffe, "pekinese", mutt, 2]
+  [poodle, giraffe, "pekinese", mutt]
 end
 
 def add_element_to_end_of_array(array, element)
