@@ -3,7 +3,7 @@ def create_an_empty_array
 
 end
 
-def create_an_array.new   
+def create_an_array  
   [poodle, giraffe, "pekinese", mutt, 2]
 end
 
